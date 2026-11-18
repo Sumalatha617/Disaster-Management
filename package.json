@@ -1,0 +1,11 @@
+{
+  "name": "project-bolt-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix project",
+    "build": "npm run build --prefix project",
+    "preview": "npm run preview --prefix project",
+    "lint": "npm run lint --prefix project"
+  }
+}
