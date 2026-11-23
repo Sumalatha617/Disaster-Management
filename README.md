@@ -37,10 +37,3 @@ Add the technologies used in your actual project, such as:
 - Multilingual support for local communities.
 - AI-based disaster risk prediction and analysis.
 
-## 🌟 Expected Impact
-
-The project aims to improve disaster awareness, encourage preparedness, and help communities access useful information for making safer decisions during emergencies.
-
-## 👩‍💻 Project Purpose
-
-Developed as an academic and innovation project to explore technology-driven solutions for disaster preparedness and emergency management.
